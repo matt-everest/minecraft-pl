@@ -1,0 +1,13 @@
+{
+    "name": "minecraft-pl-instrukcje",
+    "version": "1.0.0",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "preferredEditor": "blocksprj"
+}
